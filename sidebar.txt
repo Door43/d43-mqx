@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqx:home|Door43 (mqx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqx|d43-mqx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqx/archive/master.zip|d43-mqx.zip]]
+
+**Recent Changes**
+{{changes>ns = mqx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqx|Ethnologue data]]
+
